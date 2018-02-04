@@ -7,4 +7,5 @@ The **completed** Unity projects for each example can be found in their own repo
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-02-loading-text-using-file-stream
 
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-03-saving-text-using-file-stream
 
